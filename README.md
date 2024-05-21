@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**yazsmixx/yazsmixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###bem vindos ao meu perfil❤
+meu nome é yasmim de souza
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura] (https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+###VOCÊ PODE ENTRAR EM CONTATO COMIGO 💌
+00001128150384sp@al.educacao.sp.gov.br (eu não olho👁️‍🗨️)
+
+@yazmsx_ 🤍
+
+me seguim lá amgs💋
